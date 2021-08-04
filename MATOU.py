@@ -138,5 +138,5 @@ async def bonjour(ctx):
 
 
 ### END OF SCRIPT : TOKEN LOADING ###
-bot.run('TOKEN HERE')
+bot.run('ODcyNDUzNjAwNjg3ODIwODcw.YQqFuw.84uXvJmX7WWVeAW5nD4xXp4Y5-I')
 # REQUIRED TO START BOT !
